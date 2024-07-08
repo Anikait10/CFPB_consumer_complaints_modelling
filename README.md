@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cfpb-consumer-complaints-modelling.git
+git clone https://github.com/Anikait10/CFPB_consumer_complaints_modelling.git
 ```
 
 2. Navigate to the project directory:
@@ -72,10 +72,6 @@ jupyter notebook CFPB_consumer_complaints_modelling.ipynb
 ## Conclusion
 
 This analysis of CFPB consumer complaints offers valuable insights into consumer issues and helps in developing predictive models to categorize complaints. The cost optimization approach enhances the practical utility of the model by reducing the potential financial impact of incorrect predictions.
-
-## Author
-
-Anikait Arun Chavan
 
 ## License
 
